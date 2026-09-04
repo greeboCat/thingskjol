@@ -1,1 +1,4 @@
 lagasafn/
+*.sqlite
+__pycache__/
+skjol/.*.html
