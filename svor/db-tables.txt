@@ -1,0 +1,14 @@
+alyktanir                court_cases_fts_idx      regulations_fts_content
+alyktanir_fts            embedding_chunks         regulations_fts_data   
+alyktanir_fts_config     law_amendments           regulations_fts_docsize
+alyktanir_fts_content    law_chapters             regulations_fts_idx    
+alyktanir_fts_data       laws                     thingmenn              
+alyktanir_fts_docsize    laws_fts                 thingmenn_fts          
+alyktanir_fts_idx        laws_fts_config          thingmenn_fts_config   
+chapters                 laws_fts_content         thingmenn_fts_content  
+court_cases              laws_fts_data            thingmenn_fts_data     
+court_cases_fts          laws_fts_docsize         thingmenn_fts_docsize  
+court_cases_fts_config   laws_fts_idx             thingmenn_fts_idx      
+court_cases_fts_content  regulations              thingmenn_nefndaseta   
+court_cases_fts_data     regulations_fts          thingmenn_thingseta    
+court_cases_fts_docsize  regulations_fts_config 
